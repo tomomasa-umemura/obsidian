@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2025-10-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "2025-10-29からのアウトゴーイングリンク"
             }
           },
           {
@@ -149,7 +150,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,7 +169,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "d825ef423753ca70",
+  "active": "a6c2113968fe2a03",
   "lastOpenFiles": [
     "2025-10-29.md"
   ]
